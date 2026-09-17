@@ -16,7 +16,7 @@ public class RansomNote_383 {
     }
     public static void main(String[] args) {
         String ransomNote = "aqa";
-        String magazine = "aqwvad";
+        String magazine = "aqwvacd";
         boolean result = canConstruct(ransomNote, magazine);
         System.out.println(result);
     }
