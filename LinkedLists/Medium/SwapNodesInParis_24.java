@@ -46,7 +46,7 @@ public class SwapNodesInParis_24 {
         printList(head);
         SwapNodesInParis_24 obj = new SwapNodesInParis_24();
         head = obj.swapPairs(head);
-        System.out.println("After swapping Version:");
+        System.out.println("After swapping: ");
         printList(head);
     }
 }
